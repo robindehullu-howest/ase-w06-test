@@ -1,0 +1,25 @@
+
+[26/10/2023 15:28:30] Invalid value '' for field 'Aantal overtredingen' in Snelheidscontrole.
+		Wrong line: [2022,12,STATIONSSTRAAT,8860,LENDELEDE,1,135,,,,3.24265607916512,50.8854471295485]
+[26/10/2023 15:28:32] Invalid value '' for field 'Aantal overtredingen' in Snelheidscontrole.
+		Wrong line: [2022,12,STATIONSSTRAAT,8860,LENDELEDE,1,135,,,,3.24265607916512,50.8854471295485]
+[26/10/2023 15:28:34] Invalid value '' for field 'Aantal overtredingen' in Snelheidscontrole.
+		Wrong line: [2022,12,STATIONSSTRAAT,8860,LENDELEDE,1,135,,,,3.24265607916512,50.8854471295485]
+[26/10/2023 15:28:39] Invalid value '' for field 'Aantal overtredingen' in Snelheidscontrole.
+		Wrong line: [2022,12,STATIONSSTRAAT,8860,LENDELEDE,1,135,,,,3.24265607916512,50.8854471295485]
+[26/10/2023 16:02:10] Invalid value '' for field 'Aantal overtredingen' in Snelheidscontrole.
+		Wrong line: [2022,12,STATIONSSTRAAT,8860,LENDELEDE,1,135,,,,3.24265607916512,50.8854471295485]
+[26/10/2023 16:02:20] Invalid value '' for field 'Aantal overtredingen' in Snelheidscontrole.
+		Wrong line: [2022,12,STATIONSSTRAAT,8860,LENDELEDE,1,135,,,,3.24265607916512,50.8854471295485]
+[26/10/2023 16:03:07] Invalid value '' for field 'Aantal overtredingen' in Snelheidscontrole.
+		Wrong line: [2022,12,STATIONSSTRAAT,8860,LENDELEDE,1,135,,,,3.24265607916512,50.8854471295485]
+[26/10/2023 16:04:58] Invalid value '' for field 'Aantal overtredingen' in Snelheidscontrole.
+		Wrong line: [2022,12,STATIONSSTRAAT,8860,LENDELEDE,1,135,,,,3.24265607916512,50.8854471295485]
+[26/10/2023 16:05:30] Invalid value '' for field 'Aantal overtredingen' in Snelheidscontrole.
+		Wrong line: [2022,12,STATIONSSTRAAT,8860,LENDELEDE,1,135,,,,3.24265607916512,50.8854471295485]
+[26/10/2023 16:05:52] Invalid value '' for field 'Aantal overtredingen' in Snelheidscontrole.
+		Wrong line: [2022,12,STATIONSSTRAAT,8860,LENDELEDE,1,135,,,,3.24265607916512,50.8854471295485]
+[26/10/2023 16:06:22] Invalid value '' for field 'Aantal overtredingen' in Snelheidscontrole.
+		Wrong line: [2022,12,STATIONSSTRAAT,8860,LENDELEDE,1,135,,,,3.24265607916512,50.8854471295485]
+[26/10/2023 16:11:20] Invalid value '' for field 'Aantal overtredingen' in Snelheidscontrole.
+		Wrong line: [2022,12,STATIONSSTRAAT,8860,LENDELEDE,1,135,,,,3.24265607916512,50.8854471295485]
